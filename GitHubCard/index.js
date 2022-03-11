@@ -106,7 +106,7 @@ function createProfile(profileInfo) {
   cardInfo.appendChild(following);
   cardInfo.appendChild(bio);
 
-  return createProfile;
+  return card;
 };
 /*
   List of LS Instructors Github username's:
